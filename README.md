@@ -1,15 +1,15 @@
 # React CRUD Application
 
-### Overview
+## Overview
 This project is a simple CRUD (Create, Read, Update, Delete) application built using React. It allows you to manage data by performing these basic operations.
 
-### Features
+## Features
 - **Create**: Add new items to the list.
 - **Read**: View the list of existing items.
 - **Update**: Edit existing items.
 - **Delete**: Remove items from the list.
 
-### Installation
+## Installation
 1. Clone this repository to your local machine.
 2. Navigate to the project folder using the terminal.
 3. Run `npm install` to install the necessary dependencies.
