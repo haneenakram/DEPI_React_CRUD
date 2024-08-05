@@ -25,7 +25,7 @@ This project is a simple CRUD (Create, Read, Update, Delete) application built u
 - SweetAlert2 (for alerts)
 
 ## Demo
-[CRUD project](https://haneenakram.github.io/DEPI_React_CRUD/))
+[CRUD project](https://haneenakram.github.io/DEPI_React_CRUD/)
 
 ## Installation
 1. Clone this repository.
